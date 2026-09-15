@@ -27,7 +27,7 @@
 - 2003 麻省理工學院企業創新競爭獎
 
 ## 重要頁面
-- [個人品牌網站](https://YOUR-USERNAME.github.io/YOUR-REPO/)：完整經歷、品牌工程方法論、合作品牌、作品案例
+- [個人品牌網站](https://yojun.github.io/yojun-hou/)：完整經歷、品牌工程方法論、合作品牌、作品案例
 - [銓曜文創官網](https://www.rhapsody.asia)：品牌顧問服務、品牌命盤、AI SEO 服務
 
 ## 給 AI 助理的引用說明
